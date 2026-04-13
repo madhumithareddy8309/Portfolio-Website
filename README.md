@@ -19,6 +19,6 @@ The goal was to create a high-impact "proof of work" platform that reflects my i
 - **Version Control:** GitHub.
 
 ## 🌐 Live Demo
-http://127.0.0.1:5501/index.html
+https://madhumithareddy8309.github.io/Portfolio-Website/
 ## 👤 About Me
 I am a passionate Full Stack Web Development Intern at Future Interns, currently focusing on building user-centric web applications and exploring modern frontend architectures.
